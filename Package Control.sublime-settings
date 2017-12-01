@@ -4,14 +4,12 @@
     "AdvancedNewFile",
     "All Autocomplete",
     "ApplySyntax",
-    "BracketHighlighter",
-    "DocBlockr",
+    "Babel",
     "Emmet",
     "Git",
     "GitGutter",
-    "JSX",
     "Package Control",
-    "Ruby on Rails snippets",
-    "SCSS"
+    "SCSS",
+    "ERB Snippets"
   ]
 }
